@@ -5,4 +5,4 @@ jalur belajar mengenai front end
 4. java script
 5. git 
 6. mysql
-7. react
+7. 
